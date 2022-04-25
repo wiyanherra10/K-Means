@@ -1,2 +1,2 @@
-# Clustering K-Means
+# Clustering
 Modifikasi K-Means Clustering 
